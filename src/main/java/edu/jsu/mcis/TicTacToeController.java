@@ -1,3 +1,5 @@
+package edu.jsu.mcis;
+
 public class TicTacToeController {
 
     private final TicTacToeModel model;
